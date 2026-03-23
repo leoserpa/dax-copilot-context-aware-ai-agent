@@ -1,0 +1,25 @@
+[project]
+name = "dax-copilot-context-aware"
+version = "1.0.0"
+description = "Agente de IA especialista em Power BI, DAX e Power Query — construído com Agno + Google Gemini"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agno",
+    "google-genai",
+    "python-dotenv",
+    "pandas",
+    "openpyxl",
+    "streamlit",
+    "rich",
+]
+
+[project.scripts]
+dax-copilot = "dax_copilot.cli.main:main"
+
+[build-system]
+requires = ["setuptools>=75.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
