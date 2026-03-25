@@ -120,6 +120,7 @@ uv run streamlit run ui/app.py
 DAX-Copilot-Context-Aware/
 ├── .env.example          # Template de variáveis de ambiente
 ├── .gitignore            # Arquivos ignorados pelo Git
+├── LICENSE               # ⚖️ Licença MIT
 ├── pyproject.toml        # Dependências do projeto (uv)
 ├── README.md             # Esta documentação
 │
