@@ -124,7 +124,7 @@ DAX-Copilot-Context-Aware/
 
 ---
 
-## 🇺🇸 About the Project (English Version)
+## 🇺🇸 About the Project
 
 **DAX Copilot** is a **context-aware AI agent** that acts as a **Virtual Data Architect** specialized in:
 - 📊 **Power BI** — Dimensional modeling and best practices.
