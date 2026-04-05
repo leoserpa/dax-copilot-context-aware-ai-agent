@@ -5,7 +5,7 @@
 **Agente de IA Consultor Sênior especialista em Power BI, DAX, Storytelling e Governança**
 *Construído com [Agno](https://agno.com) + Google Gemini de Alta Performance*
 
-[![Acessar Dashboard](https://img.shields.io/badge/Acessar-Dashboard-8b5cf6?style=for-the-badge&logo=streamlit&logoColor=white)](#URL_DO_STREAMLIT_AQUI)
+[![Acessar App](https://img.shields.io/badge/Acessar-App-8b5cf6?style=for-the-badge&logo=streamlit&logoColor=white)](https://dax-copilot-context-aware-ai-agent-rerrvsugnbwwyvck3eqzny.streamlit.app/)
 [![Ver Repositório](https://img.shields.io/badge/Ver-Repositório-3776AB?style=for-the-badge&logo=github&logoColor=white)](#)
 
 ![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=flat-square&logo=python&logoColor=white)
